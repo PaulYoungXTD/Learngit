@@ -1,0 +1,1 @@
+a test file to check the rm instruction of git
